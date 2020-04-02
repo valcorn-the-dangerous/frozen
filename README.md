@@ -1,4 +1,4 @@
-# README
+#Frozen Color Theme
 
 Not much to say here -- I just like blue and purple and had some time to kill.
 
