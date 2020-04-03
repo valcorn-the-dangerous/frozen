@@ -11,7 +11,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#76767A",
+				"foreground": "#a6a6ad",
 				"fontStyle": " italic"
 			}
 		},
@@ -89,7 +89,6 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
 				"foreground": "#7DB7FA"
 			}
 		},
@@ -180,8 +179,8 @@
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#F8F8F2",
 		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#747A8AEB",
-		"editor.selectionBackground": "#747A8AEB"
+		"editor.lineHighlightBackground": "#5e6472",
+		"editor.selectionBackground": "#5e6472"
 	},
 	"name": "Frozen"
 }
